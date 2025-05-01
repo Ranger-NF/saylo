@@ -20,7 +20,7 @@ information.
     - Resolving concerns
     - Monitoring overall platform activity
 
-## Designing
+## Design
 <div align="center">
     <img src="docs/app-preview.png" alt="UI Designs" width=700 height=auto>
 </div>
